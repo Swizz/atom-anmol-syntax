@@ -1,15 +1,15 @@
 {
-  "name": "atom-material-syntax",
+  "name": "atom-anmol-syntax",
   "theme": "syntax",
-  "version": "0.2.4",
+  "version": "0.1.0",
   "description": "A dark syntax theme for Atom that uses Google's Material Design color palette",
   "keywords": [
     "syntax",
     "theme",
-    "material",
-    "material design"
+    "material-ui",
+    "anmol"
   ],
-  "repository": "https://github.com/silvestreh/atom-material-syntax",
+  "repository": "https://github.com/swizz540/atom-anmol-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"

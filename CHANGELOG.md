@@ -1,3 +1,2 @@
 ## 0.1.0 - First Release
-* Every feature added
-* Every bug fixed
+* Forked to the [silvestreh/atom-material-syntax](https://github.com/silvestreh/atom-material-syntax)

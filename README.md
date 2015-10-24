@@ -1,6 +1,6 @@
-![](http://i.imgur.com/f58FC9u.png)
+# Atom Anmol Syntax
 ---
 
-A syntax theme for [Atom Material UI](https://github.com/silvestreh/atom-material-ui). Inspired by Mattia Astorino's [SublimeText theme](https://github.com/equinusocio/material-theme).
+A syntax theme for [Atom Material UI](https://github.com/silvestreh/atom-material-ui). Inspired by Anmol Jagetia's [SublimeText theme](https://github.com/anmoljagetia/dotfiles/blob/master/sublime/anmol.tmTheme).
 
-![](/screenshot.png)
+![](/screenshot.jpg)
