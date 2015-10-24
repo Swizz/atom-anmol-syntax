@@ -1,5 +1,5 @@
 {
-  "name": "atom-anmol-syntax",
+  "name": "anmol-syntax",
   "theme": "syntax",
   "version": "0.1.0",
   "description": "A dark syntax theme for Atom that uses Google's Material Design color palette",
